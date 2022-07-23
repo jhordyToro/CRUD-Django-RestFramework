@@ -35,4 +35,5 @@ this program is created with Django rest-framework connected to a postgresql dat
 - tzdata 2022.1
 
 Facebook [@jhordytoro](https://www.facebook.com/jhordy.toroarroyo.9)<br>
-Twitter [@jhordytoro](https://twitter.com/jhordy_toro)
+Twitter [@jhordytoro](https://twitter.com/jhordy_toro)<br>
+Linkedin [@jhordytoro](https://www.linkedin.com/in/jhordy-toro-arroyo-34212322a/)
