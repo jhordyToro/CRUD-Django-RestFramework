@@ -34,6 +34,21 @@ this program is created with Django rest-framework connected to a postgresql dat
 - sqlparse 0.4.2
 - tzdata 2022.1
 
+### ¿How run server?
+Instaled all Dependencies / Requirements
+Into of ```DjangoProject``` Run this comands:
+
+(WINDOWS)
+```bash
+py manage.py runserver 
+```
+
+(LINUX)
+```bash
+python3 manage.py runserver 
+```
+
+
 Facebook [@jhordytoro](https://www.facebook.com/jhordy.toroarroyo.9)<br>
 Twitter [@jhordytoro](https://twitter.com/jhordy_toro)<br>
 Linkedin [@jhordytoro](https://www.linkedin.com/in/jhordy-toro-arroyo-34212322a/)
