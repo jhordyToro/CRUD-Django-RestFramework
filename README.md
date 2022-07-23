@@ -11,7 +11,7 @@ this program is created with Django rest-framework connected to a postgresql dat
 ### Page POST:
 <img src="https://raw.githubusercontent.com/jhordyToro/CRUD-Django-RestFramework/main/Statics/Post.gif">
 
-## PAge PUT:
+## Page PUT:
 <img src="https://raw.githubusercontent.com/jhordyToro/CRUD-Django-RestFramework/main/Statics/Put.gif">
 
 ### Page DELETE:
