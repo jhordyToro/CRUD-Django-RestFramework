@@ -35,7 +35,7 @@ this program is created with Django rest-framework connected to a postgresql dat
 - tzdata 2022.1
 
 ### ¿How run server?
-Instaled all Dependencies / Requirements
+Install all Dependencies / Requirements <dr>
 Into of ```DjangoProject``` Run this comands:
 
 (WINDOWS)
